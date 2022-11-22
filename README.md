@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunvenkatsaiis
-- 👀 I’m interested in front end web development.
-- 💞️ I’m looking to collaborate on issues that focus on java script and css
+- 💞️ I’m interested in front end web development.
+- 👀 I’m looking to collaborate on issues that focus on java script and css
 - 📫 you can reach me at varunvenkatsaii@gmail.com
 
 
