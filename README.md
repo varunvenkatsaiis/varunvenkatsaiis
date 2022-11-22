@@ -5,7 +5,7 @@
 
 
 
--✨ FRONT END DEVELOPMENT is not about buttons and colors✨
+✨ FRONT END DEVELOPMENT is not about buttons and colors✨
 
 <!---
 varunvenkatsaiis/varunvenkatsaiis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
