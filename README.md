@@ -1,6 +1,9 @@
+ॐ 🏹 🚩🛕🐚🔱
 - 👋 Hi, I’m @varunvenkatsaiis
 - 📫 you can reach me at varunvenkatsaii@gmail.com
-- ✨ ML , GENAI Deep Learning, SQL, Python, AWS ✨
+- ✨ ML DL Distributed_C ✨
+- 🥊🥊🥊🥊👊🏻
+
 
 
 <!---
