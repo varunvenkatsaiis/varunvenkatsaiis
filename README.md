@@ -1,7 +1,7 @@
 ॐ 🏹 🚩🛕🐚🔱
 - 👋 Hi, I’m @varunvenkatsaiis
 - 📫 you can reach me at varunvenkatsaii@gmail.com
-- ✨ ML DL Distributed_C ✨
+- ✨ GENAI DL Distributed_Computing ✨
 - 🥊🥊🥊🥊👊🏻
 
 
